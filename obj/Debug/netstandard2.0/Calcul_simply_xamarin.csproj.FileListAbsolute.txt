@@ -1,0 +1,15 @@
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.csproj.AssemblyReference.cache
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\bin\Debug\netstandard2.0\Calcul_simply_xamarin.deps.json
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\bin\Debug\netstandard2.0\Calcul_simply_xamarin.dll
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\bin\Debug\netstandard2.0\ref\Calcul_simply_xamarin.dll
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\bin\Debug\netstandard2.0\Calcul_simply_xamarin.pdb
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.AssemblyInfoInputs.cache
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.AssemblyInfo.cs
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.csproj.CoreCompileInputs.cache
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.dll
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\ref\Calcul_simply_xamarin.dll
+C:\Users\ANTON\Documents\GitHub\Calcul_simply_xamarin\Calcul_simply_xamarin\obj\Debug\netstandard2.0\Calcul_simply_xamarin.pdb
